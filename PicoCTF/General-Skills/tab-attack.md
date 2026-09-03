@@ -33,18 +33,23 @@ Mengekstrak berkas arsip ZIP yang disediakan menggunakan perintah `unzip`:
 ```bash
 unzip Addadshashanammu.zip
 ```
+---
 
-###Tahap 2: Navigasi Direktori Berlapis Menggunakan Tab Completion
+### Tahap 2: Navigasi Direktori Berlapis Menggunakan Tab Completion
 Masuk ke dalam struktur folder yang sangat panjang dengan memanfaatkan tombol `Tab` pada keyboard untuk mempercepat pengetikan direktori bersarang:
 ```bash
 cd Addadshashanammu/Almurbalarammi/Ashalmimilkalas/Assurnabitashpi/Maelkashishi/Onnissiralis/Ularradallaku
 ```
-###Tahap 3: Menemukan dan Menjalankan Program File
+---
+
+### Tahap 3: Menemukan dan Menjalankan Program File
 Setelah berada di direktori terdalam, cek isi folder menggunakan perintah ls untuk melihat berkas biner program (misalnya `fang-of-haynekhtnamet`). Jalankan berkas tersebut dengan awalan `./`:
 ```bash
 ./fang-of-haynekhtnamet
 ```
-###Tahap 4: Pengambilan Flag
+___
+
+### Tahap 4: Pengambilan Flag
 Program akan langsung mengeksekusi perintah dan mencetak flag picoCTF ke layar terminal.
 
 

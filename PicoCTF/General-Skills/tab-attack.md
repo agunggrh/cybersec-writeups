@@ -56,5 +56,5 @@ Program akan langsung mengeksekusi perintah dan mencetak flag picoCTF ke layar t
 ---
 
 
-##Kesimpulan & Rekomendasi Pembelajaran
+## Kesimpulan & Rekomendasi Pembelajaran
 - Efisiensi Navigasi Terminal: Menguasai fitur tab completion (tombol Tab) menghemat waktu secara signifikan dan mencegah typo fatal saat bekerja dengan struktur direktori yang kompleks atau jalur (path) yang panjang di lingkungan Linux.

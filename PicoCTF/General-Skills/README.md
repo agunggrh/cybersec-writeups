@@ -31,3 +31,11 @@ Selama menyelesaikan tantangan-tantangan di atas, beberapa perintah Linux yang p
 
 ##  Tujuan Repositori
 Sebagai catatan pribadi sekaligus referensi pembelajaran mengenai dasar-dasar command line Linux, pemrograman dasar, serta analisis file sederhana dalam dunia *Capture The Flag* (CTF).
+
+![picoCTF General Skills](https://img.shields.io/badge/picoCTF-General%20Skills%20Completed-brightgreen?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+[![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/)
+[![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/)
+[![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/)
+[![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=green)](https://github.com/)
+
